@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo y la implementación del **Proyecto 01**
 
 ## Contenido del Proyecto
 
-* **Documentación:** El desarrollo detallado del proyecto se encuentra disponible en el archivo [PDF](./nombre_de_tu_archivo.pdf) adjunto en este repositorio.
+* **Documentación:** El desarrollo detallado del proyecto se encuentra disponible en el archivo [PDF](./Proyecto1_BVLM_LCFD.pdf) adjunto en este repositorio.
 * **Demostración en Video:** Ejecución del proyecto en el siguiente enlace:  
     [Video de la ejecución](https://drive.google.com/file/d/1AzOS6_c3Px2KIOOS9GBIZn_EWly4LavE/view?usp=sharing)
 * **Código Fuente:** El cuaderno de trabajo con todo el código se encuentra alojado en Google Colab:  
